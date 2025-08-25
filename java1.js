@@ -63,4 +63,4 @@ result = nun11 + num12;
 
 document.write ("the sum of" + num11  +"and" + num12  +"is equal to =" +result )
 
-
+//  Chapter closed -------------------------
